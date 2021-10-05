@@ -1,2 +1,2 @@
 # Python-
-Hola mundo con el lenguaje de phyton 
+Hola mundo con el lenguaje de python
