@@ -4,8 +4,8 @@
 #<almarazjennifer44@gmail.com   #
 #################################
 
-fecha_Nacimiento = int (input("Digite su año de nacimiento: "))
-diferencia (2021 - fecha_Nacimiento)
+fecha_Nacimiento = int (input("Digite su fecha de nacimiento: "))
+diferencia = (2021 - fecha_Nacimiento)
 
 if diferencia >= 18:
     print ("El usuario tiene", diferencia ," es mayor de edad")
